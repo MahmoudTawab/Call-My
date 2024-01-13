@@ -1,0 +1,6 @@
+framework module Pods_Call_My {
+  umbrella header "Pods-Call My-umbrella.h"
+
+  export *
+  module * { export * }
+}
